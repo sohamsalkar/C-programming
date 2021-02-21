@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int main() // warnings because of sizeof returns %lu unsigned long
 {
     void *ptr = NULL; //void pointer
     int *p = NULL;    // integer pointer
