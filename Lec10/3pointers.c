@@ -4,10 +4,14 @@ int main()
     int a[] = {10, 20, 30, 40, 50};
     int *j, *k; // j and k pointers hai is declare
     j = &a[4];
-    k = (a + 4); // &a[i] = (a+i)
+    k = (a + 4);
 
     int t = a[4];
-    int b = *(a + 4); //a[i]= *(a+i)
+    int b = *(a + 4);
+
+    //conclusions
+    //a[i]= *(a+i)
+    // &a[i] = (a+i)
 
     printf("%d,%d", t, b); // 50 50
     if (j == k)
@@ -22,6 +26,7 @@ int main()
 }
 
 /*
+
 
 
 "&">>> 'address of' operator / reference 
