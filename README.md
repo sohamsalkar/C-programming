@@ -22,10 +22,10 @@ Lecture-wise C codes including all basic concepts.
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Functions (declaration definition & calling) with all return types
 ---
 ### 8. Lec 7
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Patterns using ```nested for``` loops and ```while``` loops
 ---
 ### 9. Lec 9
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arrays (1D and 2D) and character arrays i.e. string
 ---
 ### 10. Lec 10
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
