@@ -28,5 +28,12 @@ Lecture-wise C codes including all basic concepts.
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arrays (1D and 2D) and character arrays i.e. string
 ---
 ### 10. Lec 10
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+* 1. Concept and implementation of **strings**
+* 2. String functions 
+* 3. Concept of **pointers** and relation with **arrays**.
+* 4. Pointer operations.
+* 5. Call By Value and Call By Reference demonstration.
+* 6. Structures (concept and implementation).
+* 7. **Maths Functions** in ```math.h``` examples.
+* 8. ```sizeof()``` use for datatypes and pointers.
 ---
