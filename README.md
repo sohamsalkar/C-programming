@@ -37,3 +37,5 @@ Lecture-wise C codes including all basic concepts.
  7. **Maths Functions** in ```math.h``` examples.
  8. ```sizeof()``` use for datatypes and pointers.
 ---
+### Miscellaneous 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Random questions with Problem statements.
